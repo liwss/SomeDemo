@@ -1,0 +1,139 @@
+20120417145511->ERRO ORA-01005: null password given; logon denied
+
+20120417145511->ERRO ORA-01005: null password given; logon denied
+
+20120417145511->ERRO ORA-01005: null password given; logon denied
+
+20120417145511->ERRO ORA-01005: null password given; logon denied
+
+20120417145511->ERRO ORA-01005: null password given; logon denied
+
+20120417145511->ERRO ORA-01005: null password given; logon denied
+
+20120417145511->ERRO ORA-01005: null password given; logon denied
+
+20120417145511->ERRO ORA-01005: null password given; logon denied
+
+20120417145511->ERRO ORA-01005: null password given; logon denied
+
+20120417145512->ERRO ORA-01005: null password given; logon denied
+
+20120417145512->ERRO ORA-01005: null password given; logon denied
+
+20120417145512->ERRO ORA-01005: null password given; logon denied
+
+20120417145512->ERRO ORA-01005: null password given; logon denied
+
+20120417145512->ERRO ORA-01005: null password given; logon denied
+
+20120417145512->ERRO ORA-01005: null password given; logon denied
+
+20120417145512->ERRO ORA-01005: null password given; logon denied
+
+20120417145512->ERRO ORA-01005: null password given; logon denied
+
+20120417145512->ERRO ORA-01005: null password given; logon denied
+
+20120417145512->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145513->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145514->ERRO ORA-01005: null password given; logon denied
+
+20120417145515->ERRO ORA-01005: null password given; logon denied
+
+20120417145515->ERRO ORA-01005: null password given; logon denied
+
+20120417145515->ERRO ORA-01005: null password given; logon denied
+
+20120417145515->ERRO ORA-01005: null password given; logon denied
+
+20120417145515->ERRO ORA-01005: null password given; logon denied
+
+20120417145515->ERRO ORA-01005: null password given; logon denied
+
+20120417145515->ERRO ORA-01005: null password given; logon denied
+
+20120417150218->DEBG 'python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng liupeng 1001 a' 上一次计划没有执行完毕, 延迟5分钟后执行!
+
+20120417150503->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng liupeng 1001 a > /dev/null 2>&1 &
+20120417150618->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng liupeng 1001 a > /dev/null 2>&1 &
+20120417150731->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng liupeng 1001 a > /dev/null 2>&1 &
+20120417150846->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417150925->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417151115->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417151148->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417151338->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417151600->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417151633->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417151824->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417151846->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417151925->DEBG 'liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a' 上一次计划没有执行完毕, 延迟5分钟后执行!
+
+20120417152426->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417152744->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417152844->DEBG 'liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a' 上一次计划没有执行完毕, 延迟5分钟后执行!
+
+20120417153345->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417153445->DEBG 'liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a' 上一次计划没有执行完毕, 延迟5分钟后执行!
+
+20120417153949->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
+20120417163950->DEBG nohup python  ./syn_all_new.py  liupeng/liupeng@liupeng liupeng/liupeng@liupeng liupeng lpc_all_test liupeng lpc_all_test_dst 1001 a > /dev/null 2>&1 &
