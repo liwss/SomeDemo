@@ -1,0 +1,20 @@
+2017-10-13 10:11:08,134 - BrowserEngine - INFO - You had select IE browser.
+2017-10-13 10:11:08,134 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2017-10-13 10:11:11,696 - BrowserEngine - INFO - Starting IE browser.
+2017-10-13 10:11:13,252 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2017-10-13 10:11:13,266 - BrowserEngine - INFO - Maximize the current window.
+2017-10-13 10:11:13,282 - BrowserEngine - INFO - Set implicitly wait 3 seconds.
+2017-10-13 10:11:13,459 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2017-10-13 10:11:13,890 - BasePage - INFO - Had type ' selenium ' in inputBox
+2017-10-13 10:11:14,066 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2017-10-13 10:11:14,653 - BasePage - INFO - The element '  ' was clicked.
+2017-10-13 10:11:17,592 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-10-13 10:11:17,615 - BasePage - INFO - Current page title is selenium_百度搜索#ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium&rsv_pq=c05b8cb70000f697&rsv_t=b215lo8272VVXj9g6EWP%2F9VPhGervhkSJ94xy10xP2iajpfIPkHxr4PjdM8&rqlang=cn&rsv_enter=0&rsv_sug3=1&rsv_sug1=1&rsv_sug7=100&inputT=670&rsv_sug4=671&rsv_sug=2
+2017-10-13 10:11:17,838 - BasePage - INFO - Had find the element ' 搜索工具
+百度为您找到相关结果约6,380,000个 ' successful by xpath via value: //*/div[@class='nums'] 
+2017-10-13 10:11:20,961 - BrowserEngine - INFO - You had select IE browser.
+2017-10-13 10:11:20,963 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2017-10-13 10:11:24,586 - BrowserEngine - INFO - Starting IE browser.
+2017-10-13 10:11:26,045 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2017-10-13 10:11:26,056 - BrowserEngine - INFO - Maximize the current window.
+2017-10-13 10:11:26,069 - BrowserEngine - INFO - Set implicitly wait 3 seconds.
